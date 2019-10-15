@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2>CI and CD of maven based java web project changed again</h2>
+<h2>I just changed the code</h2>
 </body>
 </html>
