@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2>Moved to QA as part of CI/CD</h2>
+<h2>BUILD to INT to QA</h2>
 </body>
 </html>
